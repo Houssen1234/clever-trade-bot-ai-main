@@ -6,28 +6,28 @@ This project is an AI-powered trading bot designed to analyze market data and ex
 
 ## 🚧 Project Status
 
-This project is currently **under development** and not yet complete. Updates and new features will be added over time.
+⚠️ **Important:** This project is **incomplete** and still under development.  
+It is not ready for production use yet. Features are being added and improved continuously.
 
 ---
 
 ## 📌 Current Features
 
-- Market data analysis using Python and machine learning
-- Support for automated trading on platforms like Binance (in progress)
-- Scalable architecture to implement different trading strategies
+- Market data analysis using Python and machine learning  
+- Support for automated trading on platforms like Binance (in progress)  
+- Scalable architecture to implement different trading strategies  
 
 ---
 
 ## 🛠️ Technologies Used
 
-- Python
-- Machine Learning libraries (scikit-learn, TensorFlow, or PyTorch)
-- Binance API (setup in progress)
-- Pandas, NumPy for data analysis
+- Python  
+- Machine Learning libraries (scikit-learn, TensorFlow, or PyTorch)  
+- Binance API (setup in progress)  
+- Pandas, NumPy for data analysis  
 
 ---
 
 ## 🚀 How to Use
 
-1. Clone the repository:
-
+1. Clone the repository:  
